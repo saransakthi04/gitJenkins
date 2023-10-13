@@ -1,4 +1,4 @@
-package com.mycompany.app;
+dpackage com.mycompany.app;
 
 /**
  * Hello world  !   
@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message  = "Hello World!";
+    private final String message  = "Hello Worldd!!";
 
     public App() {}
 
